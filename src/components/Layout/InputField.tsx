@@ -33,7 +33,7 @@ const InputField: React.FC<InputFieldProps> = ({
         }}
         _focus={{
           outline: "none",
-          bg: "white",
+          bg: "green",
           border: "1px solid",
           borderColor: "blue.500",
         }}
