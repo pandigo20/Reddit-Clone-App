@@ -27,7 +27,7 @@ const InputField: React.FC<InputFieldProps> = ({
         fontSize="10pt"
         _placeholder={{ color: "gray.500" }}
         _hover={{
-          bg: "white",
+          bg: "red",
           border: "1px solid",
           borderColor: "blue.500",
         }}
